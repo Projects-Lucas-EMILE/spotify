@@ -21,4 +21,4 @@ L'objectif était de recréer un Spotify "simplifié" en utilisant une API inter
 - Artistes, détails d'artistes
 - Albums, détails d'albums
 - Genre, détails des gens
-- Recherche d'artistes, d'albums et de genres.
+- Recherche d'artistes, d'albums et de genres
